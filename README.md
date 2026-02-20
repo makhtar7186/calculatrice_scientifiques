@@ -38,14 +38,23 @@ A modular scientific calculator built with Python using:
 calculatrice_scientifique/
 │
 ├── main.py
+
 ├── calculator/
+
 │ ├── sc_calculator.py
+
 │ └── calculator.py
+
 │
+
 ├── ui/
+
 │ └── app.py
+
 │
+
 ├── requirements.txt
+
 └── README.md
 
 
